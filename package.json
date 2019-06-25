@@ -1,6 +1,6 @@
 {
   "name": "dynamic-fs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A handler that reads files from memory or fallbacks to Node.js File System module.",
   "main": "index.js",
   "repository": "https://github.com/stldo/dynamic-fs",
