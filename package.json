@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "A handler that reads files from memory or fallbacks to Node.js File System module.",
   "main": "index.js",
-  "repository": "sbtoledo/dynamic-fs",
+  "repository": "https://github.com/stldo/dynamic-fs",
   "keywords": [
     "fs",
     "memory"
   ],
-  "author": "Saulo Toledo (sbtoledo.github.io)",
+  "author": "stldo (https://github.com/stldo)",
   "license": "MIT"
 }

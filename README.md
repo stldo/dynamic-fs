@@ -39,4 +39,4 @@ fs.readFile('/path/to/fileB.jsx', (error, data) => {
 
 ## License
 
-The MIT License (MIT), © 2017 Saulo Toledo
+[The MIT License](./LICENSE)
